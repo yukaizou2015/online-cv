@@ -13,21 +13,21 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Yukai.Zou@uhs.nhs.uk
+    email: yukaizou2012@gmail.com
     # phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    # timezone: America/Cancun Timezone
     # citizenship:
     website: kaidsen.space #do not add http://
-    linkedin: alandoe
-    # xing: alandoe
+    linkedin: yukaizou
+    # xing: yukaizou
     github: yukaizou2015
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
     twitter: '@YukaiZou'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # stack-overflow: # Number/Username, e.g. 123456/yukaizou
     # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # goodreads: # Number-Username, e.g. 123456-yukaizou
     pdf: https://drive.google.com/file/d/1Jj9KV0A_DXpqEqSTyWH5TLz-AxEH4dwx/view?usp=drive_link
 
     languages:
@@ -54,15 +54,6 @@ sidebar:
     #     - item: Cooking
     #       link:
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
 education:
     title: Education
     info:
@@ -82,27 +73,60 @@ education:
         university: Hong Kong Baptist University
         time: 2010 - 2014
 
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
+
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A full list of my peer-reviewed publications and 
+      conference presentations may be accessed as a 
+      [PDF](https://drive.google.com/file/d/1Jj9KV0A_DXpqEqSTyWH5TLz-AxEH4dwx/view?usp=drive_link) file.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Development of brain atlases for early-to-middle adolescent collision-sport athletes
+        link: "https://doi.org/10.1038/s41598-021-85518-6"
+        authors: Yukai Zou, Wenbin Zhu, Ho-Ching Yang, Ikbeom Jang, Nicole L. Vike, Diana O. Svaldi, Trey E. Shenk, Victoria N. Poole, Gregory G. Tamer, Jr,, Larry J. Leverenz, Ulrike Dydak, Eric A. Nauman, Yunjie Tong, Thomas M. Talavage, Joseph V. Rispoli
+        conference: "Scientific Reports (2021), 11: 6440"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Cortical and Subcortical Contributions to Predicting Intelligence using 3D ConvNets"
+        link: "https://doi.org/10.1007/978-3-030-31901-4_21"
+        authors: Yukai Zou, Ikbeom Jang, Timothy G. Reese, Jinxia Yao, Wenbin Zhu, Joseph V. Rispoli
+        conference: "Chapter 21 in Lecture Notes in Computer Science, Vol. 11791: 
+        Adolescent Brain Cognitive Development Neurocognitive Prediction, 
+        Kilian M. Pohl, Wesley K. Thompson, Ehsan Adeli, Marius George Linguraru, 
+        eds., Cham, Springer International Publishing, 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Every Hit Matters: White Matter Diffusivity Changes in High School Football Athletes Are Correlated with Repetitive Head Acceleration Event Exposure
+        link: "https://doi.org/10.1016/j.nicl.2019.101930"
+        authors: Ikbeom Jang, Il Yong Chun, Jared R. Brosch, Sumra Bari, Yukai Zou, Brain R. Cummiskey, Taylor A. Lee, Roy J. Lycke, Victoria N. Poole, Trey E. Shenk, Diana O. Svaldi, Gregory G. Tamer, Jr., Ulrike Dydak, Larry J. Leverenz, Eric A. Nauman, Thomas M. Talavage
+        conference: "Neuroimage: Clinical (1961), 24: 101930"
+
+      - title: White matter microstructural correlates of relapse in alcohol dependence
+      link: "https://doi.org/10.1016/j.pscychresns.2018.09.004"
+      authors: Yukai Zou, Donna E. Murray, Timothy C. Durazzo, Thomas P. Schmidt, Troy A. Murray, Dieter J. Meyerhoff
+      conference: "Psychiatry Research: Neuroimaging (2018), 281: 92-100"
+
+    - title: Effects of abstinence and chronic cigarette smoking on white matter microstructure in alcohol dependence: diffusion tensor imaging at 4 Tesla
+    link: "https://doi.org/10.1016/j.drugalcdep.2017.01.032"
+    authors: Yukai Zou, Donna E. Murray, Timothy C. Durazzo, Thomas P. Schmidt, Troy A. Murray, Dieter J. Meyerhoff
+    conference: "Drug and Alcohol Dependence (2017), 175: 42-50"
+
+    - title: Investigating dynamic structural and mechanical changes of neuroblastoma cells associated with glutamate-mediated neurodegeneration
+    link: "https://doi.org/10.1038/srep07074"
+    authors: Yuqiang Fang, Catherine Y. Y. Iu, Cathy N. P. Lui, Yukai Zou, Carmen K. M. Fung, Hung Wing Li, Ning Xi, Ken K. L. Yung and King W. C. Lai
+    conference: "Scientific Reports (2014), 4: 7074"
+
+    - title: Protective effects of Sapindus mukorossi Gaertn against fatty liver disease induced by high fat diet in rats
+    link: "https://doi.org/10.1016/j.bbrc.2014.06.035"
+    authors: Qiuxian Peng, Qin Zhang, Wei Xiao, Meng Shao, Qin Fan, Hongwei Zhang, Yukai Zou, Xin Li, Wenxue Xu, Zhixian Mo, Hongbing Cai
+    conference: "Biochem Biophys Res Commun (2014), 450: 685-691"
 
 experiences:
     title: Experiences
