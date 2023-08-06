@@ -86,8 +86,7 @@ education:
 publications:
     title: Publications
     intro: |
-      A full list of my peer-reviewed publications and 
-      conference presentations may be accessed as a 
+      A full list of my publications and may be accessed as a 
       [PDF](https://drive.google.com/file/d/1Jj9KV0A_DXpqEqSTyWH5TLz-AxEH4dwx/view?usp=drive_link) file.
     papers:
       - title: Development of brain atlases for early-to-middle adolescent collision-sport athletes
@@ -126,45 +125,70 @@ publications:
         conference: "Biochem Biophys Res Commun (2014), 450: 685-691"
 
 experiences:
-    title: Experiences
+    title: Professional Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: MRI Physicist
+        time: Jan.2023 - present
+        company: University Hospital Southampton NHS Foundation Trust, Southampton, England, United Kingdom
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Providing significant support and direction for the R&D activities of the Imaging Physics Group and within the Trust, translating research and innovation to the clinical environment
+            - Assisting the development of clinical MRI services, optimising MRI protocols, assisting the procurement, evaluation, and planning of new MRI installations
+            - Performing MRI quality assurance procedures, supporting the Trust Lead MR Safety Expert in providing advice and training for healthcare professionals
+      - role: Visiting Researcher
+        time: Aug.2022 - Sept.2022
+        company: Cardiff University Brain Research Imaging Centre, Cardiff, Wales, United Kingdom
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Gained skills in advanced diffusion MRI techniques, data acquisition for axon caliber and myelin estimation, and application of machine learning techniques
+            - Met colleagues from the Schools of Engineering, Computer Science and Informatics, and Psychology to discuss collaboration opportunities for grants and fellowships
+            - Participated in group discussion on research abstracts, attended the British and Irish Chapter of the ISMRM annual meeting to learn about the latest research activities
+      # - role: Research Fellow in Advanced Neuroimaging
+      #   time: Sept.2020 - Sept.2022
+      #   company: University of Southampton, Southampton, England, United Kingdom
+      #   company: University Hospital Southampton NHS Foundation Trust, Southampton, England, United Kingdom
+      #   details: |
+      #       - Collected,processed,andanalysedMRIdataatSouthamptonGeneralHospital,andsupervised undergraduate and postgraduate students on research activities
+      #       - Tooktheleadonmanagementofstudy-specificsoftwareandresearchdataacrosstheUniversity and Hospital
+      #       - Wrote and submitted grants for research funding, prepared research data for publications, and submitted abstracts to international conferences
+      - role: Graduate Research Assistant
+        time: Aug.2016 - Aug.2020
+        company: Purdue University, West Lafayette, Indiana, U.S.A.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Operated 3T GE MRI scanner to collect neuroimaging data, and trained junior graduate students to become primary operators
+            - Processed and analysed data collected by Purdue Neurotrauma Group, performed neuroimag- ing database maintenance, and supervised research work of junior graduate students
+            - Prepared research data for publication and grant proposal, and submitted abstracts for international conferences to present the findings for community
+      - role: Staff Research Associate
+        time: Oct.2015 - July.2016
+        company: Northern California Institute for Research and Education, San Francisco, California, U.S.A.
+        details: |
+            - Performed neuroimaging database maintenance and data analysis of different substance using populations at San Francisco VA Medical Center
+            - Prepared research data for publications; wrote and published peer-reviewed manuscripts
+            - Tested, troubleshooted, and streamlined pipelines for image processing and analysis
+      - role: Graduate Research Assistant
+        time: Jun.2015 - Aug.2015
+        company: University of California at San Francisco, San Francisco, California, U.S.A.
+        details: |
+            - Bullet Point
+      - role: 
+        time: Oct.2015 - July.2016
+        company: 
+        details: |
+            - Learned neuroimaging data processing, statistical analysis, and machine learning techniques at San Francisco VA Medical Center
+            - Familiarized with in-house image processing pipelines, FSL toolbox, and R statistics software
+            - Investigatedmicrostructuralintegrityofbrainwhitematterwithintreatment-seekingalcoholics through retrospective analysis of diffusion and structural MRI datasets
+      - role: Research Assistant
+        time: Apr.2014 - Aug.2014
+        company: Hong Kong Baptist University, Hong Kong, China
+        details: |
+            - Collaborated on research projects in molecular neurosciences and biomedical engineering
+            - Trained undergraduate students and summer interns
+            - Performed laboratory maintenance and management
+      - role: Summer Undergraduate Research Assistant
+        time: May.2010 - July.2010
+        company: Hong Kong Baptist University, Hong Kong, China
+        details: |
+            - Engaged in research at a molecular and cell biology laboratory under Summer Undergraduates Research Fellowship (SURF)
+            - Learned culturing Human Umbilical Vein Endothelial Cell for research work
+            - Evaluated the effects of ginsenosides on cytotoxicity and cell migration
 
 # certifications:
 #       title: Certifications
