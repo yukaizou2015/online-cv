@@ -129,26 +129,26 @@ experiences:
     info:
       - role: MRI Physicist
         time: Jan.2023 - present
-        company: University Hospital Southampton NHS Foundation Trust, Southampton, England, United Kingdom
+        company: University Hospital Southampton NHS Foundation Trust, Southampton, United Kingdom
         details: |
             - Providing significant support and direction for the R&D activities of the Imaging Physics Group and within the Trust, translating research and innovation to the clinical environment
             - Assisting the development of clinical MRI services, optimising MRI protocols, assisting the procurement, evaluation, and planning of new MRI installations
             - Performing MRI quality assurance procedures, supporting the Trust Lead MR Safety Expert in providing advice and training for healthcare professionals
       - role: Visiting Researcher
         time: Aug.2022 - Sept.2022
-        company: Cardiff University Brain Research Imaging Centre, Cardiff, Wales, United Kingdom
+        company: Cardiff University Brain Research Imaging Centre, Cardiff, United Kingdom
         details: |
             - Gained skills in advanced diffusion MRI techniques, data acquisition for axon caliber and myelin estimation, and application of machine learning techniques
             - Met colleagues from the Schools of Engineering, Computer Science and Informatics, and Psychology to discuss collaboration opportunities for grants and fellowships
             - Participated in group discussion on research abstracts, attended the British and Irish Chapter of the ISMRM annual meeting to learn about the latest research activities
-      # - role: Research Fellow in Advanced Neuroimaging
-      #   time: Sept.2020 - Sept.2022
-      #   company: University of Southampton, Southampton, England, United Kingdom
+      - role: Research Fellow in Advanced Neuroimaging
+        time: Sept.2020 - Sept.2022
+        company: University of Southampton, Southampton, United Kingdom
       #   company: University Hospital Southampton NHS Foundation Trust, Southampton, England, United Kingdom
-      #   details: |
-      #       - Collected,processed,andanalysedMRIdataatSouthamptonGeneralHospital,andsupervised undergraduate and postgraduate students on research activities
-      #       - Tooktheleadonmanagementofstudy-specificsoftwareandresearchdataacrosstheUniversity and Hospital
-      #       - Wrote and submitted grants for research funding, prepared research data for publications, and submitted abstracts to international conferences
+        details: |
+            - Collected,processed,andanalysedMRIdataatSouthamptonGeneralHospital,andsupervised undergraduate and postgraduate students on research activities
+            - Tooktheleadonmanagementofstudy-specificsoftwareandresearchdataacrosstheUniversity and Hospital
+            - Wrote and submitted grants for research funding, prepared research data for publications, and submitted abstracts to international conferences
       - role: Graduate Research Assistant
         time: Aug.2016 - Aug.2020
         company: Purdue University, West Lafayette, Indiana, U.S.A.
