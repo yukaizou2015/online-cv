@@ -100,10 +100,10 @@ publications:
         authors: Yukai Zou, Ikbeom Jang, Timothy G. Reese, Jinxia Yao, Wenbin Zhu, Joseph V. Rispoli
         conference: "Chapter 21 in Lecture Notes in Computer Science, Vol. 11791: Adolescent Brain Cognitive Development Neurocognitive Prediction, Kilian M. Pohl, Wesley K. Thompson, Ehsan Adeli, Marius George Linguraru, eds., Cham, Springer International Publishing, 2019"
 
-      # - title: Every Hit Matters: White Matter Diffusivity Changes in High School Football Athletes Are Correlated with Repetitive Head Acceleration Event Exposure
-      #   link: "https://doi.org/10.1016/j.nicl.2019.101930"
-      #   authors: Ikbeom Jang, Il Yong Chun, Jared R. Brosch, Sumra Bari, Yukai Zou, Brain R. Cummiskey, Taylor A. Lee, Roy J. Lycke, Victoria N. Poole, Trey E. Shenk, Diana O. Svaldi, Gregory G. Tamer, Jr., Ulrike Dydak, Larry J. Leverenz, Eric A. Nauman, Thomas M. Talavage
-      #   conference: "Neuroimage: Clinical (1961), 24: 101930"
+      - title: "Every Hit Matters: White Matter Diffusivity Changes in High School Football Athletes Are Correlated with Repetitive Head Acceleration Event Exposure"
+        link: "https://doi.org/10.1016/j.nicl.2019.101930"
+        authors: Ikbeom Jang, Il Yong Chun, Jared R. Brosch, Sumra Bari, Yukai Zou, Brain R. Cummiskey, Taylor A. Lee, Roy J. Lycke, Victoria N. Poole, Trey E. Shenk, Diana O. Svaldi, Gregory G. Tamer, Jr., Ulrike Dydak, Larry J. Leverenz, Eric A. Nauman, Thomas M. Talavage
+        conference: "Neuroimage: Clinical (1961), 24: 101930"
 
       # - title: White matter microstructural correlates of relapse in alcohol dependence
       #   link: "https://doi.org/10.1016/j.pscychresns.2018.09.004"
